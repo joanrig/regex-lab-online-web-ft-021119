@@ -3,6 +3,7 @@ def starts_with_a_vowel?(word)
     TRUE
   else
     false
+  binding.pry
   end
 end
 
